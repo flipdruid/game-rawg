@@ -1,5 +1,10 @@
 npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+npm i axios
 
 
 // To view all commits
 git log --oneline
+
+
+// https://rawg.io/ API Key
+72edfae9f3e74a8b9ef11e79a6c9db69
