@@ -8,3 +8,16 @@ git log --oneline
 
 // https://rawg.io/ API Key
 72edfae9f3e74a8b9ef11e79a6c9db69
+
+npm run build for production
+
+
+github error push
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+solution
+https://www.youtube.com/watch?v=dxvnbKaszBw
+
+
+npm i -g vercel
