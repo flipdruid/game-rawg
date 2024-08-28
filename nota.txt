@@ -19,5 +19,13 @@ fatal: Could not read from remote repository.
 solution
 https://www.youtube.com/watch?v=dxvnbKaszBw
 
-
+deploy to vercel
 npm i -g vercel
+
+install react-query
+npm i @tanstack/react-query@4.28
+npm i @tanstack/react-query-devtools@4.28
+
+
+
+source:
